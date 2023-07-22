@@ -14,6 +14,7 @@
 		1E28431B2A6C6B1C006E859B /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E28431A2A6C6B1C006E859B /* LandmarksTests.swift */; };
 		1E2843252A6C6B1C006E859B /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2843242A6C6B1C006E859B /* LandmarksUITests.swift */; };
 		1E2843272A6C6B1C006E859B /* LandmarksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2843262A6C6B1C006E859B /* LandmarksUITestsLaunchTests.swift */; };
+		1E90AC832A6C7733008C2CD5 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E90AC822A6C7733008C2CD5 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		1E2843202A6C6B1C006E859B /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E2843242A6C6B1C006E859B /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		1E2843262A6C6B1C006E859B /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1E90AC822A6C7733008C2CD5 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				1E28430C2A6C6B1C006E859B /* Assets.xcassets */,
 				1E28430E2A6C6B1C006E859B /* Landmarks.entitlements */,
 				1E28430F2A6C6B1C006E859B /* Preview Content */,
+				1E90AC822A6C7733008C2CD5 /* CircleImage.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				1E28430B2A6C6B1B006E859B /* ContentView.swift in Sources */,
 				1E2843092A6C6B1B006E859B /* LandmarksApp.swift in Sources */,
+				1E90AC832A6C7733008C2CD5 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
